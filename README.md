@@ -18,11 +18,11 @@ This project implements an AI-powered resume matching tool that compares multipl
 5. Sorts and displays the resumes based on similarity score
 6. Writes the results to `result.txt`
 
-## File Structure·
-resume-matcher-ai/
-├── job.txt # Text file containing the job description
-├── resumes.txt # Text file containing candidate resumes (separated by blank lines)
-├── result.txt # Output file with sorted resume similarity scores
-├── match.py # Python script that performs the matching logic
-├── README.md # Project documentation
-└── venv/ # (Optional) Virtual environment directory
+## File Structure
+
+- `job.txt`: Job description input file  
+- `resumes.txt`: Candidate resumes separated by blank lines  
+- `result.txt`: Output file with sorted similarity scores  
+- `match.py`: Python script that runs the matching logic  
+- `README.md`: Project documentation  
+- `venv/`: (Optional) Python virtual environment  
