@@ -1,0 +1,12 @@
+Resume 1 | Similarity Score: 0.5909
+Resume 1:
+Computer Science student skilled in Python, Java, and C++. Built multiple projects including a resume-matching AI system. Familiar with GitHub.
+--------------------------------------------------
+Resume 2 | Similarity Score: 0.5743
+Resume 3:
+Data Science graduate proficient in Python, scikit-learn, and SQL. Experienced in building ML pipelines and deploying models to cloud platforms.
+--------------------------------------------------
+Resume 3 | Similarity Score: 0.3419
+Resume 2:
+Marketing major with strong skills in branding, content writing, and campaign execution. Familiar with Excel and Adobe Creative Suite.
+--------------------------------------------------
